@@ -1,0 +1,10 @@
+* cl-transmission
+
+A Common Lisp library to interface with transmission using its rpc
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/libre-man/cl-transmission.git   |
+| commit  | 4bbf1d2  |
+| systems | cl-transmission |
+|---------+-------------------------------------------|
+
