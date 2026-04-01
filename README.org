@@ -7,3 +7,4 @@ A Common Lisp library to interface with transmission using its rpc
 | commit  | ab2b254                                              |
 | systems | cl-transmission                                      |
 |---------+------------------------------------------------------|
+ 
